@@ -10,13 +10,17 @@ The analysis aims to develop and assess the accuracy of a data model predicting 
 
 ## Performance Metrics:
 
-Balanced Accuracy Score: 95.20%
+- Balanced Accuracy Score: 95.20%
 Interpretation: The balanced accuracy score of 95.2% indicates that, accounting for both sensitivity (recall or true positive rate) and specificity (true negative rate), the model's overall prediction accuracy is highly favorable.
-Precision Score: 92%
+
+- Precision Score: 92%
 Interpretation: The precision score of 92% signifies that 92% of the predicted positive outcomes were accurate.
-Recall Score: 95%
+
+- Recall Score: 95%
 Interpretation: The recall score of 95% implies that the model was 95% precise in identifying true positive values among all positive predictions made.
-Summary of Results:
+
+
+## Summary of Results:
 
 The machine learning model exhibited robust performance, evident from the high accuracy, precision, and recall scores. Recommending the model for use by the company is justified based on the following:
 
